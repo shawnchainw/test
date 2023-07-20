@@ -1,0 +1,26 @@
+{
+  "uuid": "fb2d45fbcdb04f688ead51d80642391a",
+  "name": "windows 10",
+  "img": "https://github.com/shawnchainw/test/releases/download/windwos10/windows10logo.png",
+  "descriptions": "描述",
+  "block_number": 4,
+  "block_list": [
+    {
+      "md5": "50fbb0baa4f255a0620fca66e09bca0c",
+      "url": "https://github.com/shawnchainw/test/releases/download/windwos10/windwos.zipaa"
+    },
+    {
+      "md5": "abb319fe85ea4746e916855d19183a39",
+      "url": "https://github.com/shawnchainw/test/releases/download/windwos10/windwos.zipab"
+    },
+    {
+      "md5": "cfc62e2f2db01c11461b790104a718f8",
+      "url": "https://github.com/shawnchainw/test/releases/download/windwos10/windwos.zipac"
+    },
+    {
+      "md5": "3f282795fb891804e8f88e73d340d303",
+      "url": "https://github.com/shawnchainw/test/releases/download/windwos10/windwos.zipad"
+    }
+  ],
+  "md5": "a8002a3d9a112eaa03964e18ff339c73"
+}
