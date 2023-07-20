@@ -4,6 +4,7 @@
   "img": "https://github.com/shawnchainw/test/releases/download/windwos10/windows10logo.png",
   "descriptions": "描述",
   "block_number": 4,
+  "size":6991518281,
   "block_list": [
     {
       "md5": "50fbb0baa4f255a0620fca66e09bca0c",
