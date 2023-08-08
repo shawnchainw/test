@@ -6,6 +6,7 @@
   "block_number": 5,
   "script_url": "https://raw.githubusercontent.com/shawnchainw/test/main/scripts/ps002/windows_script.py",
   "image_name": "windows_2.img.gz",
+  "size":7122124963,
   "block_list": [
     {
       "url": "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzaa"
