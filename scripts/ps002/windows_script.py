@@ -5,7 +5,7 @@ import time
 
 from sdk import AbstractScript, RequireClass, RequireType, TextType
 
-source_path = "windows_1.img.gz"
+source_path = "windows_2.img.gz"
 
 
 def part_c_reg(instance, text):
