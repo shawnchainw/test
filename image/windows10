@@ -1,7 +1,7 @@
 {
   "uuid": "a63b6184bee840aea78d997cea42fded",
   "name": "windows 10 专业版 22H2",
-  "img": "https://github.com/shawnchainw/test/releases/download/windwos10/windows10logo.png",
+  "img": "https://github.com/shawnchainw/test/releases/download/windows10/windows10logo.png",
   "descriptions": "windows10 安装镜像 + ps002驱动",
   "block_number": 5,
   "script_url": "https://raw.githubusercontent.com/shawnchainw/test/main/scripts/ps002/windows_script.py",
