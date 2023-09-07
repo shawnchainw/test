@@ -1,28 +1,53 @@
 {
-  "uuid": "a63b6184bee840aea78d997cea42fded",
-  "name": "windows 10 专业版 22H2",
-  "img": "https://github.com/shawnchainw/test/releases/download/windows10/windows10logo.png",
-  "descriptions": "windows10 安装镜像 + ps002驱动",
-  "block_number": 5,
-  "script_url": "https://raw.githubusercontent.com/shawnchainw/test/main/scripts/ps002/windows_script.py",
-  "image_name": "windows_2.img.gz",
-  "size":7122124963,
-  "block_list": [
-    {
-      "url": "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzaa"
-    },
-    {
-      "url": "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzab"
-    },
-    {
-      "url": "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzac"
-    },
-    {
-      "url": "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzad"
-    },
-    {
-      "url": "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzae"
+        "script_version": "1",
+        "uuid": "a63b6184bee840aea78d997cea42fded",
+        "name": "Windows 10",
+        "img": "https://github.com/shawnchainw/test/releases/download/windwos10/windows10logo.png",
+        "description": {
+            "zh-CN": "windows安装程序， 您必须遵守Windows相关条款，继续安装则代表接受条款",
+            "en": "Windows installation program.You must comply with the Windows-related terms. Continuing with the installation signifies acceptance of the terms."
+        },
+        "version": "Professional 22H2",
+        "author": "official",
+        "date": "2023.8.7",
+        "download": [
+            {
+                "file_name": "windows_2.img.gz",
+                "size": 5774637436,
+                "urls": [
+                    "http://192.168.2.248:1000/images/windows_3.img.gzaa",
+                    "http://192.168.2.248:1000/images/windows_3.img.gzab",
+                    "http://192.168.2.248:1000/images/windows_3.img.gzac"
+                ],
+                "md5": "ca34ebc57503fd21752caea1dbe216a2"
+            }
+        ],
+        "require": [
+            {
+                "name": "disk",
+                "description": {
+                    "en": "Choose the disk to install.",
+                    "zh-CN": "选择安装的磁盘"
+                },
+                "type": "DISK"
+            },
+            [
+                {
+                    "name": "username",
+                    "description": "测试用户名",
+                    "type": "text"
+                },
+                {
+                    "name": "password",
+                    "description": "测试密码",
+                    "type": "password"
+                }
+            ]
+        ],
+        "scripts": [
+            {
+                "type": "auto",
+                "percentage": 0.1
+            }
+        ]
     }
-  ],
-  "md5": "7eae51b14d6e1089de1618e0ebb75b3e"
-}
