@@ -29,7 +29,8 @@
                     "en": "Choose the disk to install.",
                     "zh-CN": "选择安装的磁盘"
                 },
-                "type": "DISK"
+                "type": "DISK",
+                "min": 34359738368
             },
             [
                 {
