@@ -1,5 +1,4 @@
 {
-    "js": {
         "script_version": "1",
         "uuid": "a63b6184bee840aea78d997cea42fded",
         "name": "Windows 10",
@@ -52,11 +51,4 @@
                 "size": 31037849600
             }
         ]
-    },
-    "param": {
-        "disk": "/dev/sda",
-        "username": "hello",
-        "password": "password",
-        "language": "en"
     }
-}
