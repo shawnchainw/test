@@ -15,9 +15,11 @@
                 "file_name": "windows_2.img.gz",
                 "size": 5774637436,
                 "urls": [
-                    "http://192.168.2.248:1000/images/windows_3.img.gzaa",
-                    "http://192.168.2.248:1000/images/windows_3.img.gzab",
-                    "http://192.168.2.248:1000/images/windows_3.img.gzac"
+                    "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzaa",
+                    "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzab",
+                    "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzac",
+                    "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzad",
+                    "https://github.com/shawnchainw/test/releases/download/windows10_ps002_v1.1/windows_2.img.gzae",
                 ],
                 "md5": "ca34ebc57503fd21752caea1dbe216a2"
             }
