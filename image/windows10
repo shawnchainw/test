@@ -2,7 +2,7 @@
         "script_version": "1",
         "uuid": "a63b6184bee840aea78d997cea42fded",
         "name": "Windows 10",
-        "img": "https://github.com/shawnchainw/test/releases/download/windwos10/windows10logo.png",
+        "img": "https://github.com/shawnchainw/test/releases/download/windows10/windows10logo.png",
         "description": {
             "zh-CN": "windows安装程序， 您必须遵守Windows相关条款，继续安装则代表接受条款",
             "en": "Windows installation program.You must comply with the Windows-related terms. Continuing with the installation signifies acceptance of the terms."
