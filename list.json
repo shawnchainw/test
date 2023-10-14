@@ -1,8 +1,14 @@
 [
   {
     "uuid": "a63b6184bee840aea78d997cea42fded",
-    "name":"windows 10 专业版 22H2",
+    "name":"windows 10",
     "img":"https://github.com/shawnchainw/test/releases/download/windows10/windows10logo.png",
     "url":"https://raw.githubusercontent.com/shawnchainw/test/main/image/windows10"
+  },
+  {
+    "uuid":"1c46c9de51be460e8f73234e6605b534",
+    "name":"OpenWrt",
+    "img":"https://openwrt.org/_media/logo.png",
+    "url":"https://github.com/shawnchainw/test/blob/main/image/openwrt.json"
   }
 ]
