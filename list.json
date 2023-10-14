@@ -9,6 +9,6 @@
     "uuid":"1c46c9de51be460e8f73234e6605b534",
     "name":"OpenWrt",
     "img":"https://openwrt.org/_media/logo.png",
-    "url":"https://github.com/shawnchainw/test/blob/main/image/openwrt.json"
+    "url":"https://raw.githubusercontent.com/shawnchainw/test/main/image/openwrt.json"
   }
 ]
